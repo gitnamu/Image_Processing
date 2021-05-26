@@ -1,2 +1,2 @@
 # Image_Processing
-CNU Image processing assignments
+Image processing class assignments
