@@ -31,8 +31,8 @@ Compression-1
 + week10  
 Compression-2
 
-+ week11
++ week11  
 Image warping
 
-+ week12
++ week12  
 Segmentation
